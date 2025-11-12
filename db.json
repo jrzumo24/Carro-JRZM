@@ -1,0 +1,76 @@
+{
+  "autos": [
+    {
+      "id": "2",
+      "marca": "Honda",
+      "modelo": "Civic",
+      "año": 2023,
+      "precio": 270000,
+      "color": "Negro"
+    },
+    {
+      "id": "3",
+      "marca": "Ford",
+      "modelo": "Mustang",
+      "año": 2021,
+      "precio": 450000,
+      "color": "Rojo"
+    },
+    {
+      "id": "4",
+      "marca": "Chevrolet",
+      "modelo": "Camaro",
+      "año": 2022,
+      "precio": 420000,
+      "color": "Amarillo"
+    },
+    {
+      "id": "6e95",
+      "marca": "Tesla",
+      "modelo": "Model Y",
+      "año": 2006,
+      "precio": 400000,
+      "color": "verde"
+    },
+    {
+      "id": "21f2",
+      "marca": "Toyota",
+      "modelo": "RAV4",
+      "año": 2023,
+      "precio": 350000,
+      "color": "morado"
+    },
+    {
+      "id": "f0e9",
+      "marca": "Ford",
+      "modelo": "F-serie",
+      "año": 2024,
+      "precio": 530000,
+      "color": "marron"
+    },
+    {
+      "id": "e3e2",
+      "marca": "Honda",
+      "modelo": "CR-V",
+      "año": 2025,
+      "precio": 550000,
+      "color": "gris"
+    },
+    {
+      "id": "0804",
+      "marca": "Chevrolet",
+      "modelo": "Silverado",
+      "año": 2024,
+      "precio": 300000,
+      "color": "rojo"
+    },
+    {
+      "id": "3ddd",
+      "marca": "Toyota",
+      "modelo": "UVM",
+      "año": 2025,
+      "precio": 320000,
+      "color": "Azul"
+    }
+  ]
+}
